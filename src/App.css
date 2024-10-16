@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+#cards  .card{
+  height: 170px;
+  display: flex;
+  align-content: center;
+  /* padding-left: 5%; */
+}
+
+#cards  .card img{
+   /* height:100% !important; */
+   align-self: center;
+}
